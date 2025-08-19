@@ -10,10 +10,8 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimlecracken13&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlecracken13&layout=compact&theme=tokyonight)
+
 
 
 
