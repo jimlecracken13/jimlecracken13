@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Amadou Diallo
+## Hi there 👋, I'm Amadou Diallo     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="Coding gif">
 
 
 - 🔭 I’m currently working on ...
@@ -9,7 +9,7 @@
 - 📫 How to reach me: jimlecracken@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: ...
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jimlecracken13&show_icons=true&theme=tokyonight)
 
